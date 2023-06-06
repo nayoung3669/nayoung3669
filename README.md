@@ -1,7 +1,6 @@
-### Hi there 👋
-
-<a href="https://nayoungkim00.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-#FF4785?style=flat&logo=tistory"(https://github.com/nayoung3669/nayoung3669/assets/70098144/fb022ef6-3d7e-49c2-b183-2d363139028e"&logoColor=로고색상"/>
-
+```
+<a href="https://nayoungkim00.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-#FF4785?style=flat&logo=tistory"(https://github.com/nayoung3669/nayoung3669/assets/70098144/fb022ef6-3d7e-49c2-b183-2d363139028e"&logoColor=로고색상"/></a>
+```
 
 <!--![tistory](https://github.com/nayoung3669/nayoung3669/assets/70098144/fb022ef6-3d7e-49c2-b183-2d363139028e)
 
