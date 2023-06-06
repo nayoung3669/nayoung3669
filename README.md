@@ -1,5 +1,10 @@
 ### Hi there 👋
-<a href="https://nayoungkim00.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-?style=뱃지모양&logo="(https://github.com/nayoung3669/nayoung3669/assets/70098144/fb022ef6-3d7e-49c2-b183-2d363139028e"&logoColor=로고색상"/></a>
+
+<a href="https://nayoungkim00.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-#FF4785?style=flat&logo=tistory"(https://github.com/nayoung3669/nayoung3669/assets/70098144/fb022ef6-3d7e-49c2-b183-2d363139028e"&logoColor=로고색상"/>
+
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tistory</title><path d="M0 3a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 18a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 0a3 3 0 1 0 6 0 3 3 0 0 0-6 0"/></svg>
+</a>
+
 
 <!--![tistory](https://github.com/nayoung3669/nayoung3669/assets/70098144/fb022ef6-3d7e-49c2-b183-2d363139028e)
 
