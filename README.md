@@ -1,6 +1,10 @@
 Hi, there👋
 
-<a href="https://nayoungkim00.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-A9225C?style=flat&logo=tistory&logoColor=000000"/></a>
+<a href="https://nayoungkim00.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF4785?style=flat&logo=tistory&logoColor=000000"/></a>
+<a href="https://www.linkedin.com/in/nayoung-mia-kim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=000000"/></a>
+
+<!-- 
+![Nayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayoung3669&show_icons=true&theme=radical) -->
 
 <!--![tistory](https://github.com/nayoung3669/nayoung3669/assets/70098144/fb022ef6-3d7e-49c2-b183-2d363139028e)
 
