@@ -1,4 +1,6 @@
- <a href="https://nayoungkim00.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-#A9225C?style=flat-square&logo=tistory&logoColor=white"/></a>
+Hi, there👋
+
+<a href="https://nayoungkim00.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-A9225C?style=flat-square&logo=tistory&logoColor=000000"/></a>
 
 <!--![tistory](https://github.com/nayoung3669/nayoung3669/assets/70098144/fb022ef6-3d7e-49c2-b183-2d363139028e)
 
