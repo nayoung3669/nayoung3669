@@ -6,6 +6,8 @@ Hi, there👋
 <a href="https://coursera.org/share/eee760b6f0e1dda61f6bf436e7f5b036" target="_blank"><img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=Coursera&logoColor=000000"/></a>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayoung3669&langs_count=8)](https://github.com/nayoung3669/github-readme-stats)
+
 
 <!-- 
 ![Nayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayoung3669&show_icons=true&theme=radical) -->
