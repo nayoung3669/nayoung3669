@@ -16,7 +16,8 @@
 ⚙️ Skills
  <p>
  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=000000"/>
- <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=react&logoColor=000000"/>
+ <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=react&logoColor=000000"/> 
+<img src="https://img.shields.io/badge/redux--thunk-1572B6?style=flat&logo=redux&logoColor=000000"/>
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=000000"/>
  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=000000"/>
  <img src="https://img.shields.io/badge/scss-hotpink.svg?style=flat&logo=SCSS&logoColor=white)"/>
