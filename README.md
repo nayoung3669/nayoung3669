@@ -1,5 +1,7 @@
 
 👋 Hi, there
+<br />
+💻 Currently studying front-end skills
 
 <a href="https://nayoungkim00.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF4785?style=flat&logo=tistory&logoColor=000000"/></a>
 <a href="mailto:skdud3669@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-FFCD00?style=flat&logo=Mail.Ru&logoColor=000000"/></a>
