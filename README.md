@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Nayoung%20Kim&animation=fadeIn&fontSize=60)
 
 <br />
-<br />
 
 👋 Hi, I'm Nayoung Kim
 <br />
