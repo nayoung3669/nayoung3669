@@ -1,7 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Nayoung%20Kim&animation=fadeIn&fontSize=60)
 
-👋 Hi, there
+
+👋 Hi, I'm Nayoung Kim
 <br />
-💻 Currently studying front-end skills
+🌱 Currently learning web front-end development
 
 <a href="https://nayoungkim00.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF4785?style=flat&logo=tistory&logoColor=000000"/></a>
 <a href="mailto:skdud3669@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-FFCD00?style=flat&logo=Mail.Ru&logoColor=000000"/></a>
@@ -16,7 +18,9 @@
  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=000000"/>
  <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=react&logoColor=000000"/>
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=000000"/>
- <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=000000"/>
+ <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=000000"/>
+ <img src="https://img.shields.io/badge/scss-hotpink.svg?style=flat&logo=SCSS&logoColor=white)"/>
+ <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
  
 
 </p>
