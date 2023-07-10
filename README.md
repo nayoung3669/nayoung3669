@@ -2,7 +2,7 @@
 
 <br />
 
-👋 Hi, I'm Nayoung Kim
+👋 Hi, I'm Nayoung
 <br />
 🌱 Currently learning web front-end development
 
