@@ -13,7 +13,7 @@
 
 <br />
 
- 📚 Studying
+⚙️ Skills
  <p>
  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=000000"/>
  <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=react&logoColor=000000"/>
