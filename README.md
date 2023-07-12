@@ -5,7 +5,7 @@
 👋 Hi, there! I'm Nayoung
 <br />
 🌱 Currently learning web front-end development
-<br /><br />
+<br />
 <hr />
 
 ☀️ Welcome
