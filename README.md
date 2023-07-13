@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Nayoung%20Kim&color=D7D5D4&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Nayoung%20Kim&color=EAE8E7&height=200)
 
 <br />
 
