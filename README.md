@@ -19,17 +19,16 @@
 <br />
 
 ⚙️ Skills
-<p>
- <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/typescript-1572B6?style=flat&logo=typescript&logoColor=000000"/>
+<p> 
+ <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=000000"/>
-
-   
+  <img src="https://img.shields.io/badge/typescript-1572B6?style=flat&logo=typescript&logoColor=000000"/>
+ <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=000000"/>
  <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=000000"/> 
- <img src="https://img.shields.io/badge/redux--thunk-36454f?style=flat&logo=redux&logoColor=purple"/>
+ <img src="https://img.shields.io/badge/react--query-FF4154?style=flat&logo=react-query&logoColor=000000"/> 
+ <img src="https://img.shields.io/badge/sanity-F03E2F?style=flat&logo=sanity&logoColor=000000"/> 
  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=000000"/>
  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
- <img src="https://img.shields.io/badge/sass-hotpink.svg?style=flat&logo=sass&logoColor=white"/>
 </p>
 
 
