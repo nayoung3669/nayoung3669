@@ -30,7 +30,7 @@
  <img src="https://img.shields.io/badge/SWR-000000?style=flat&logo=vercel&logoColor=white"/> 
  <img src="https://img.shields.io/badge/sanity-F03E2F?style=flat&logo=sanity&logoColor=000000"/> 
  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=000000"/>
- <img src="https://img.shields.io/badge/tailwindcss-1252B6?style=flat&logo=tailwindcss&logoColor=000000"/>
+ <img src="https://img.shields.io/badge/tailwindcss-1252B6?style=flat&logo=tailwindcss&logoColor=white"/>
  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
 </p>
 
