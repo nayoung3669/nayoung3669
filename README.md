@@ -1,14 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Nayoung%20Kim&color=ffffff&height=210)
 
 <br />
-
-👋 Hi, there! I'm Nayoung
+<br />
+💻 Majoring in Business and Computer Engineering in GCU
 <br />
 🌱 Currently learning web front-end development
 <br />
+🐥 Interested in backend(Node.js) as well
+<br />
 <hr />
 
-☀️ Welcome
+☀️ Check my bio here!
 <br />
 <p> 
 <a href="https://nayoungkim00.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF4785?style=flat&logo=tistory&logoColor=000000"/></a>
