@@ -6,7 +6,7 @@
 <br />
 🌱 Currently learning web front-end development
 <br />
-🐥 Interested in backend(Node.js) as well
+🐥 Always interested in new skills
 <br />
 <hr />
 
