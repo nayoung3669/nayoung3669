@@ -10,7 +10,7 @@
 <br />
 <hr />
 
-☀️ Check my bio here!
+☀️ Bio
 <br />
 <p> 
 <a href="https://nayoungkim00.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF4785?style=flat&logo=tistory&logoColor=000000"/></a>
@@ -36,13 +36,12 @@
  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
 </p>
 
+<br />
+<br />
 
+![Nayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayoung3669&show_icons=true&theme=radical) 
 
-<!--![Nayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayoung3669&show_icons=true&theme=radical) 
-
-<!--![tistory](https://github.com/nayoung3669/nayoung3669/assets/70098144/fb022ef6-3d7e-49c2-b183-2d363139028e)
-
-**nayoung3669/nayoung3669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **nayoung3669/nayoung3669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
