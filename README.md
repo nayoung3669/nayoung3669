@@ -2,7 +2,7 @@
 
 <br />
 <br />
-💻 Majoring in Business and Computer Engineering at GCU
+💻 Majoring in Business and Computer Engineering
 <br />
 🌱 Currently learning web front-end development
 <br />
