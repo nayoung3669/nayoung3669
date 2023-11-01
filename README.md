@@ -4,7 +4,7 @@
 <br />
 💻 Majoring in Business and Computer Engineering
 <br />
-🌱 Currently learning web front-end development
+🌱 Currently learning web development
 <br />
 🐥 Always interested in new skills
 <br />
