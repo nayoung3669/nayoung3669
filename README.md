@@ -6,8 +6,6 @@
 <br />
 🌱 Currently learning web development
 <br />
-🐥 Always interested in new skills
-<br />
 <hr />
 
 ☀️ Bio
