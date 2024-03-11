@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/typescript-1572B6?style=flat&logo=typescript&logoColor=000000"/>
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=000000"/>
  <img src="https://img.shields.io/badge/Node.js-6CA45E?style=flat&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python3-366D9C?style=flat&logo=python&logoColor=white"/>
  <img src="https://img.shields.io/badge/jupyter-F37726?style=flat&logo=jupyter&logoColor=white"/>
  <br/>
  <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=000000"/> 
