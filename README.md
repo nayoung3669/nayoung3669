@@ -2,7 +2,7 @@
 
 <br />
 <br />
-💻 Majoring in Business and Computer Engineering
+💻 Major in Business and Computer Engineering
 <hr />
 
 ☀️ Bio
@@ -17,7 +17,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayoung3669&hide=html,css)](https://github.com/nayoung3669/github-readme-stats)
 
-⚙️ Skills
+<!-- ⚙️ Skills
 <p> 
  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=000000"/>
@@ -32,7 +32,7 @@
  <img src="https://img.shields.io/badge/react--query-FF4154?style=flat&logo=react-query&logoColor=000000"/> 
  <img src="https://img.shields.io/badge/SWR-000000?style=flat&logo=vercel&logoColor=white"/> 
  <img src="https://img.shields.io/badge/tailwindcss-1252B6?style=flat&logo=tailwindcss&logoColor=white"/>
-</p>
+</p> -->
 
 <br />
 
